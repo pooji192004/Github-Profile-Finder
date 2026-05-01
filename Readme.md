@@ -25,10 +25,10 @@ GitHub Profile Finder is a web application that allows users to search for any G
 
 ##  Screenshots
 
-# Home Screen
+#Home Screen
     -https://github.com/pooji192004/Github-Profile-Finder/blob/main/Git%20Home.png
 
-# Profile Result
+#Profile Result
     -https://github.com/pooji192004/Github-Profile-Finder/blob/main/Profile%20page.png
 
 # Deployment
