@@ -1,6 +1,6 @@
-# 🔍 GitHub Profile Finder
+GitHub Profile Finder:
 
-## 📌 Description
+##  Description
 GitHub Profile Finder is a web application that allows users to search for any GitHub username and view their profile details in real time. It fetches data from the GitHub API and displays information like name, bio, repositories, followers, and profile picture.
 
 ---
